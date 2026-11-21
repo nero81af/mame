@@ -49,3 +49,6 @@ regtests/chdman/temp
 regtests/jedutil/output
 /CMakeLists.txt
 /samples
+
+# our tree (rom_manager/build.sh and the prebuilt tools of Rom Manager in rom_manager/bin)
+!/rom_manager/

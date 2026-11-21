@@ -1,1 +1,3 @@
 * text eol=lf
+# the prebuilt tools of Rom Manager (build.sh): binaries, never converted
+bin/** binary
